@@ -4,7 +4,7 @@
 
 [![Team](https://img.shields.io/badge/Team-ZeroSleepDevs-blueviolet)](.)
 [![Challenge](https://img.shields.io/badge/Challenge-Duality%20AI%20Hawkathon-orange)](.)
-[![Best Model mIoU](https://img.shields.io/badge/Best%20mIoU-0.424-brightgreen)](.)
+[![Best Model mIoU](https://img.shields.io/badge/Best%20mIoU-0.564-brightgreen)](.)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-red)](https://pytorch.org)
 
 ---
